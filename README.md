@@ -1,4 +1,12 @@
-# Oracle JET version 16.1.0
+# Oracle JET ESM version 16.1.0.1
+
+## Oracle JET ESM
+
+Oracle JET ESM is a port of Oracle JET to use ESM modules eliminating the outdated RequireJS AMD modules.
+
+Oracle JET uses the Knockout MVVM framework which is based on RequireJS.  So this project leverages Knockout-ESNext port of Knockout.
+
+This project will follow the Oracle JET versioning with one additional version # in the event there needs to be more than one release of oraclejet-esm for a specific Oracle JET release.
 
 ## About Oracle JET
 
